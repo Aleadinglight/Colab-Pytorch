@@ -8,3 +8,4 @@ Read more here: https://pytorch.org/
 Pytorch has currently released a new version, read more at:https://pytorch.org/2018/04/22/0_4_0-migration-guide.html
 
 ## Tutorial
+1. [Install Pytorch](https://github.com/Aleadinglight/Colab-example/blob/master/Colab_With_Pytorch.ipynb)
