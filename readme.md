@@ -10,4 +10,7 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 
 ## Steps
 1. [Install Pytorch:](../master/Colab_With_Pytorch.ipynb) Follow the instruction here. After this, the library is already installed in your Google Drive location. You don't have to reinstall it next time.
-2. [Pytorch Tensors:](../master/tensors.py) Example on how to use PyTorch Tensors to fit a two-layer network to random data.
+
+2. [Pytorch Tensors:](../master/PytorchTensorsWithGraph.py) Example on how to use PyTorch Tensors to fit a two-layer network to random data.
+
+<img src="../master/2.png" width="500">
