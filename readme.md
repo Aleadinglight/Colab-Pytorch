@@ -16,8 +16,8 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 
 2. [Pytorch Tensors:](../master/PytorchTensorsWithGraph.py) Example on how to use PyTorch Tensors to fit a two-layer network to random data.
 
-<img src="../master/2.png" width="500">
+<img src="../master/picture/2.png" width="500">
 
 3. [Pytorch Autograd:](../master/GradWithGraph.py) Implement Autograd on the previous problem.
 
-<img src="../master/3.png" width="500">
+<img src="../master/picture/3.png" width="500">
