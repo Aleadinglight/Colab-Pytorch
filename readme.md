@@ -21,3 +21,7 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 3. [Pytorch Autograd:](../master/GradWithGraph.py) Implement Autograd on the previous problem.
 
 <img src="../master/picture/3.png" width="500">
+
+4. [Recurrent Neural Network:](../master/rnn.ipynb)
+
+<img src="../master/picture/4.png" width="500">
