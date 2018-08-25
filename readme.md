@@ -22,6 +22,11 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 
 <img src="../master/picture/3.png" width="500">
 
-4. [Recurrent Neural Network:](../master/rnn.ipynb)
+4. [Recurrent Neural Network:](../master/rnn.ipynb) Using recurrent neural network to predict a sequence: 'hihell' -> 'hihello'. In this case, I used seq to seq model. That is, each letter will predict the next letter: 'hihell' -> 'ihello'.
 
+The model looks like this, assuming that batch_size = 1
+
+<img src="../master/picture/rnn.jpg" width="500">
+
+The traning result:
 <img src="../master/picture/4.png" width="500">
