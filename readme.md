@@ -32,3 +32,5 @@ The traning result:
 <img src="../master/picture/4.png" width="500">
 
 5. [Recurrent Neural Network for Classification:](../master/RnnClassification.ipynb) Using RNN to classify. Note: When using embedding table, remember that the vocab_size of Embedding() must be bigger than the biggest element in the input tensor.
+
+<img src="../master/picture/rnnClassification.jpg" width="500">
