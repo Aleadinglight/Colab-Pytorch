@@ -30,3 +30,5 @@ The model looks like this, assuming that batch_size = 1
 
 The traning result:
 <img src="../master/picture/4.png" width="500">
+
+5. [Load image & Transfer learning:]() Download image & pretrain ConvNet from a given link.
