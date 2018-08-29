@@ -16,21 +16,21 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 
 2. [Pytorch Tensors:](../master/PytorchTensorsWithGraph.py) Example on how to use PyTorch Tensors to fit a two-layer network to random data.
 
-<img src="../master/picture/2.png" width="500">
+<img src="../master/picture/2.png" width="300">
 
 3. [Pytorch Autograd:](../master/GradWithGraph.py) Implement Autograd on the previous problem.
 
-<img src="../master/picture/3.png" width="500">
+<img src="../master/picture/3.png" width="300">
 
 4. [Recurrent Neural Network:](../master/rnn.ipynb) Using recurrent neural network to predict a sequence: 'hihell' -> 'hihello'. In this case, I used seq to seq model. That is, each letter will predict the next letter: 'hihell' -> 'ihello'.
 
 The model looks like this, assuming that batch_size = 1
 
-<img src="../master/picture/rnn.jpg" width="500">
+<img src="../master/picture/rnn.jpg" width="300">
 
 The traning result:
-<img src="../master/picture/4.png" width="500">
+<img src="../master/picture/4.png" width="300">
 
 5. [Recurrent Neural Network for Classification:](../master/RnnClassification.ipynb) Using RNN to classify. Note: When using embedding table, remember that the vocab_size of Embedding() must be bigger than the biggest element in the input tensor.
 
-<img src="../master/picture/rnnClassification.jpg" width="500">
+<img src="../master/picture/rnnClassification.jpg" width="300">
