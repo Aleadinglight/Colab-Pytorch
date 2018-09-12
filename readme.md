@@ -35,3 +35,5 @@ Pytorch has currently released a new version, read more at: https://pytorch.org/
 5. [Recurrent Neural Network for Classification:](../master/RnnClassification.ipynb) Using RNN to classify. Note: When using embedding table, remember that the vocab_size of Embedding() must be bigger than the biggest element in the input tensor.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="../master/picture/rnnClassification.jpg" width="300">
+
+6. [Image style transfer using Convolutional Neural Networks:](https://github.com/Aleadinglight/Pytorch-VGG-19): Using VGG-19 to create a new image from an input image using style from another image.
